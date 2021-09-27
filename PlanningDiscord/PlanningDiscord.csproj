@@ -10,4 +10,10 @@
     <PackageReference Include="Ical.Net" Version="4.2.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="discordToken.var">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

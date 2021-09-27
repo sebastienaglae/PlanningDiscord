@@ -1,6 +1,7 @@
 ﻿using Discord;
 using Discord.WebSocket;
 using System;
+using System.IO;
 using System.Threading.Tasks;
 
 namespace PlanningDiscord
@@ -19,7 +20,7 @@ namespace PlanningDiscord
 
             //  You can assign your bot token to a string, and pass that in to connect.
             //  This is, however, insecure, particularly if you plan to have your code hosted in a public repository.
-            var token = "token";
+            var token = File.ReadAllText("discordToken.var");
 
             // Some alternative options would be to keep your token in an Environment Variable or a standalone file.
             // var token = Environment.GetEnvironmentVariable("NameOfYourEnvironmentVariable");
