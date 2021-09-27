@@ -1,1 +1,5 @@
 # PlanningDiscord
+
+## Bot Discord
+
+## HyperPlanning
