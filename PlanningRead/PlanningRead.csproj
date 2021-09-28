@@ -9,4 +9,13 @@
     <Folder Include="cache\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="hyperplaningUrl.var">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="hyperplanningUrl.var">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
