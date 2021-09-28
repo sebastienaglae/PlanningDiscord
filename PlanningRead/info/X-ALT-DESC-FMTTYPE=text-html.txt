@@ -1,0 +1,103 @@
+Matière  Commun - Rentrée<br/>Enseignant  Tounsi<br/>Salle  A1 Luc. 175 pl<br/>Site  Lucioles<br/>Étudiants  45<br/>
+Matière  Forum Entreprise Miage<br/>Site  à distance<br/>Mémo  cours à distance (synchrone ou asynchrone)<br/>Type  à distance<br/>Étudiants  45<br/>
+Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  Menez<br/>Salle  C4 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  44<br/>
+Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  Menez<br/>Salles  C3 Luc. exams\, C4 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  SYSKA<br/>Salle  A2 Luc. 115 pl<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  SLUAI501 - UE- Conception Objet & Prog S5<br/>Enseignant  Mallet<br/>Salle  A2 Luc. 115 pl<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  44<br/>
+Matière  SLUAI501 - UE- Conception Objet & Prog S5<br/>Enseignant  Mallet<br/>Salle  A2 Luc. 115 pl<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  SLUAI501 - UE- Conception Objet & Prog S5<br/>Enseignant  Mallet<br/>Salle  C4 Luc.<br/>Site  Lucioles<br/>Étudiants  45<br/>
+Matière  SLUAI501 - UE- Conception Objet & Prog S5<br/>Enseignant  Mallet<br/>Salle  C3 Luc. exams<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  44<br/>
+Matière  Pause pédagogique<br/>Étudiants  45<br/>
+Matière  PP - Pause Pédagogique<br/>Étudiants  45<br/>
+Matière  Remise à niveau informatique<br/>Enseignant  SYSKA<br/>Salle  C5 Luc.<br/>Site  Lucioles<br/>Étudiants  45<br/>
+Matière  ECUE - Marketing fond. & digit<br/>Enseignant  Tounsi<br/>Salle  A2 Luc. 115 pl<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  ECUE - Méthod. du Génie Log.<br/>Enseignant  Renevier<br/>Salle  A2 Luc. 115 pl<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  44<br/>
+Matière  ECUE - Méthod. du Génie Log.<br/>Enseignant  Renevier<br/>Salle  C5 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  ECUE - Méthod. du Génie Log.<br/>Enseignant  Renevier<br/>Salle  A2 Luc. 115 pl<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  42<br/>
+Matière  ECUE - Méthod. du Génie Log.<br/>Enseignant  Renevier<br/>Salle  C4 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  42<br/>
+Matière  ECUE - Méthod. du Génie Log.<br/>Enseignant  Renevier<br/>Salle  C3 Luc. exams<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  ECUE - Méthod. du Génie Log.<br/>Enseignant  Renevier<br/>Salle  C4 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  SLEAI503 - ECUE Projet de developpement t<br/>Enseignants  Occello\, Renevier<br/>Salles  342 Luc.\, 344 Luc.\, 345 Luc.\, 347 Luc.\, 349 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  SLEAI503 - ECUE Projet de developpement t<br/>Enseignants  Occello\, Renevier<br/>Salles  344 Luc.\, 345 Luc.\, 347 Luc.\, 349 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  SMZGS393 - Séminaire<br/>Salle  A1 Luc. 175 pl<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  111<br/>
+Matière  UE - Compétences transver S5<br/>Site  Lucioles<br/>Type  Exam<br/>Étudiants  45<br/>
+Matière  SLEAI503 - ECUE Projet de developpement t<br/>Enseignant  Renevier<br/>Salle  334 Luc. Salle conseil<br/>Site  Lucioles<br/>Type  Exam<br/>Étudiants  45<br/>
+Matière  SLEAI503 - ECUE Projet de developpement t<br/>Enseignant  Renevier<br/>Salles  342 Luc.\, 344 Luc.\, 345 Luc.\, 347 Luc.\, 349 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  ECUE - Gestion Comptable<br/>Enseignant  SASSO<br/>Salle  A2 Luc. 115 pl<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  ECUE - Marketing fond. & digit<br/>Enseignant  Tounsi<br/>Salle  A2 Luc. 115 pl<br/>Site  Lucioles<br/>Type  Exam<br/>Étudiants  45<br/>
+Matière  ECUE - Gestion Comptable<br/>Enseignant  TOURNADRE<br/>Salle  A1 Luc. 175 pl<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  ECUE - Gestion Comptable<br/>Enseignants  SASSO\, TOURNADRE<br/>Salle  A2 Luc. 115 pl<br/>Site  Lucioles<br/>Type  Exam<br/>Étudiants  45<br/>
+Matière  Mathématiques appl. à l'infor.<br/>Enseignant  CADOREL<br/>Salle  C5 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  Mathématiques appl. à l'infor.<br/>Enseignant  CADOREL<br/>Salle  A2 Luc. 115 pl<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  ECUE - Gestion commerciale<br/>Enseignant  Tounsi<br/>Salle  A2 Luc. 115 pl<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  Bilan semestre 5<br/>Enseignant  Tounsi<br/>Salle  C5 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  SLUAI602 - UE Approf. Bases de Données<br/>Enseignant  Galli<br/>Salle  C5 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  Commun - Rentrée<br/>Enseignants  Menez\, Tounsi<br/>Salle  A1 Luc. 175 pl<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  Remise à niveau informatique<br/>Enseignant  BUFFA<br/>Salle  C5 Luc.<br/>Site  Lucioles<br/>Étudiants  45<br/>
+Matière  Remise à niveau informatique<br/>Enseignant  Mallet<br/>Salle  C5 Luc.<br/>Site  Lucioles<br/>Étudiants  45<br/>
+Matière  Remise à niveau informatique<br/>Enseignant  Renevier<br/>Salle  C5 Luc.<br/>Site  Lucioles<br/>Étudiants  45<br/>
+Matière  Réunion d'information L3 MIAGE<br/>Enseignant  Tounsi<br/>Salle  A2 Luc. 115 pl<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  Remise à niveau informatique<br/>Enseignant  Tounsi<br/>Salles  C4 Luc.\, C5 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  ECUE - Méthod. du Génie Log.<br/>Enseignant  Renevier<br/>Site  à distance<br/>Mémo  cours à distance (synchrone ou asynchrone)<br/>Type  à distance<br/>Étudiants  45<br/>
+Matière  SMZGS393 - Séminaire<br/>Enseignant  Tounsi<br/>Mémo  Conférence sur les risques cyber et gestion de crise en entreprise avec Alain Juillet à la Maison de l'Intelligence Artificielle<br/>Type  Séminaire<br/>Étudiants  45<br/>
+Matière  ECUE - Méthod. du Génie Log.<br/>Enseignant  Renevier<br/>Salle  A1 Luc. 175 pl<br/>Site  Lucioles<br/>Type  Exam<br/>Étudiants  45<br/>
+Matière  Visite d'entreprise<br/>Enseignant  Tounsi<br/>Mémo  SOFAB - Telecom Valley - Les templiers<br/>Étudiants  45<br/>
+Matière  SLUAI501 - UE- Conception Objet & Prog S5<br/>Enseignant  Mallet<br/>Salle  C4 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  SYSKA<br/>Salle  A2 Luc. 115 pl<br/>Site  Lucioles<br/>Type  Exam<br/>Étudiants  45<br/>
+TD  &lt\;M1 Miage&gt\; TD  01\, &lt\;M1 Miage&gt\; TD  02<br/>Matière  Réservation de salles<br/>Salle  A1 Luc. 175 pl<br/>Site  Lucioles<br/>Mémo  Séminaire MIAGE<br/>Étudiants  89<br/>
+Matière  ECUE - Anglais S5<br/>Enseignant  CLEMENT DE SOUZA<br/>Salle  A1 Luc. 175 pl<br/>Site  Lucioles<br/>Type  Exam<br/>Étudiants  45<br/>
+Matière  SLEAI603 - ECUE - Stage en entreprise<br/>Enseignant  Cabrio<br/>Salle  C4 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  45<br/>
+Matière  UE - Compétences transver S5<br/>Salle  A2 Luc. 115 pl<br/>Site  Lucioles<br/>Mémo  Réunion d'information sur l'organisation des compétences transversales (S5 et S6).<br/>Type  Cours<br/>Étudiants  45<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  ALLICHE<br/>Salle  345 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  Menez<br/>Salle  342 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TD 2 - Les alternants<br/>Matière  ECUE - Anglais S5<br/>Enseignant  CLEMENT DE SOUZA<br/>Salle  C5 Luc.<br/>Site  Lucioles<br/>Type  TD<br/>Étudiants  24<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TD 2 - Les alternants<br/>Matière  ECUE - Marketing fond. & digit<br/>Enseignant  Tounsi<br/>Salle  C4 Luc.<br/>Site  Lucioles<br/>Type  TD<br/>Étudiants  24<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TD 2 - Les alternants<br/>Matière  ECUE - Gestion Comptable<br/>Enseignant  TOURNADRE<br/>Salle  C4 Luc.<br/>Site  Lucioles<br/>Type  TD<br/>Étudiants  24<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TD 2 - Les alternants<br/>Matière  ECUE - Gestion Comptable<br/>Enseignant  TOURNADRE<br/>Salle  C5 Luc.<br/>Site  Lucioles<br/>Type  TD<br/>Étudiants  24<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TD 2 - Les alternants<br/>Matière  ECUE - Marketing fond. & digit<br/>Enseignant  Tounsi<br/>Salle  A1 Luc. 175 pl<br/>Site  Lucioles<br/>Type  Soutenance<br/>Étudiants  24<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TD 2 - Les alternants<br/>Matière  KLSANS6 - ECUE - Anglais S6<br/>Enseignant  CLEMENT DE SOUZA<br/>Salle  C5 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  24<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TD 2 - Les alternants<br/>Matière  ECUE - Anglais S5<br/>Enseignant  CLEMENT DE SOUZA<br/>Site  Lucioles<br/>Type  à distance<br/>Étudiants  24<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TD 2 - Les alternants<br/>Matière  ECUE - Anglais S5<br/>Enseignant  CLEMENT DE SOUZA<br/>Site  à distance<br/>Mémo  cours à distance (synchrone ou asynchrone)<br/>Type  à distance<br/>Étudiants  24<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TD 2 - Les alternants<br/>Matière  ECUE - Anglais S5<br/>Enseignant  CLEMENT DE SOUZA<br/>Salle  C3 Luc. exams<br/>Site  Lucioles<br/>Type  à distance<br/>Étudiants  24<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TD 1 - Les non alternants<br/>Matière  ECUE - Anglais S5<br/>Enseignant  CLEMENT DE SOUZA<br/>Salle  C5 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  21<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TD 1 - Les non alternants<br/>Matière  ECUE - Anglais S5<br/>Enseignant  CLEMENT DE SOUZA<br/>Salle  C3 Luc. exams<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  21<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TD 1 - Les non alternants<br/>Matière  ECUE - Marketing fond. & digit<br/>Enseignant  Tounsi<br/>Salle  C4 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  21<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TD 1 - Les non alternants<br/>Matière  ECUE - Marketing fond. & digit<br/>Enseignant  Tounsi<br/>Salle  C5 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  21<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TD 1 - Les non alternants<br/>Matière  ECUE - Gestion Comptable<br/>Enseignant  SASSO<br/>Salle  C5 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  21<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TD 1 - Les non alternants<br/>Matière  KLSANS6 - ECUE - Anglais S6<br/>Enseignant  CLEMENT DE SOUZA<br/>Salle  C5 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  21<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 2 - Les alternants<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  Menez<br/>Salle  342 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 2 - Les alternants<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  SYSKA<br/>Salle  345 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 2 - Les alternants<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  Menez<br/>Salle  345 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 2 - Les alternants<br/>Matière  SLUAI501 - UE- Conception Objet & Prog S5<br/>Enseignant  Mallet<br/>Salles  342 Luc.\, 345 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  13<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 2 - Les alternants<br/>Matière  SLUAI501 - UE- Conception Objet & Prog S5<br/>Enseignant  Mallet<br/>Salles  345 Luc.\, 349 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 2 - Les alternants<br/>Matière  SLUAI501 - UE- Conception Objet & Prog S5<br/>Enseignant  Mallet<br/>Salle  345 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 2 - Les alternants<br/>Matière  SLUAI501 - UE- Conception Objet & Prog S5<br/>Enseignant  Mallet<br/>Salle  342 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 2 - Les alternants<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  SYSKA<br/>Salle  342 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 2 - Les alternants<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  SYSKA<br/>Salle  347 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 2 - Les alternants<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  Menez<br/>Salle  347 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 2 - Les alternants<br/>Matière  SLUAI501 - UE- Conception Objet & Prog S5<br/>Enseignant  Mallet<br/>Salles  345 Luc.\, 347 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 2 - Les alternants<br/>Matière  SLUAI501 - UE- Conception Objet & Prog S5<br/>Enseignant  Mallet<br/>Salles  345 Luc.\, 347 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 2 - Les alternants<br/>Matière  SLUAI501 - UE- Conception Objet & Prog S5<br/>Enseignant  Mallet<br/>Salles  345 Luc.\, 349 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 2 - Les alternants<br/>Matière  SLUAI501 - UE- Conception Objet & Prog S5<br/>Enseignant  Mallet<br/>Salles  347 Luc.\, 349 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1-2<br/>Matière  SLUAI501 - UE- Conception Objet & Prog S5<br/>Enseignant  Menez<br/>Salle  342 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1-2<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  ALLICHE<br/>Salle  345 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1-2<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  Menez<br/>Salle  345 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1-2<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  Menez<br/>Salle  342 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1-2<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  Menez<br/>Salle  349 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1-2<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  Menez<br/>Salles  342 Luc.\, 345 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1-2<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  ALLICHE<br/>Salle  342 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1-2<br/>Matière  SLUAI501 - UE- Conception Objet & Prog S5<br/>Enseignant  CADOREL<br/>Salles  345 Luc.\, 347 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1-2<br/>Matière  SLUAI501 - UE- Conception Objet & Prog S5<br/>Enseignant  CADOREL<br/>Salles  347 Luc.\, 349 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1-2<br/>Matière  SLUAI501 - UE- Conception Objet & Prog S5<br/>Enseignant  CADOREL<br/>Salles  347 Luc.\, 349 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  Menez<br/>Salle  349 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  14<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  ALLICHE<br/>Salle  342 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  Menez<br/>Salle  342 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  ALLICHE<br/>Salle  345 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  Menez<br/>Salle  345 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  ALLICHE<br/>Salle  349 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1<br/>Matière  SLUAI501 - UE- Conception Objet & Prog S5<br/>Enseignant  YU<br/>Salles  342 Luc.\, 344 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  12<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1<br/>Matière  SLUAI501 - UE- Conception Objet & Prog S5<br/>Enseignant  YU<br/>Salles  342 Luc.\, 344 Luc.<br/>Site  Lucioles<br/>Type  TP<br/>Étudiants  13<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1<br/>Matière  SLUAI501 - UE- Conception Objet & Prog S5<br/>Enseignant  YU<br/>Salles  342 Luc.\, 344 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; TP 1<br/>Matière  UE - Systèmes et Réseaux S5<br/>Enseignant  ALLICHE<br/>Salle  345 Luc.<br/>Site  Lucioles<br/>Type  Cours<br/>Étudiants  15<br/>
+TD  &lt\;Licence 3 Miashs parcours Miage&gt\; Alternants<br/>Matière  SLEAI502 - ECUE Alternance 5<br/>Enseignant  Tounsi<br/>Salle  334 Luc. Salle conseil<br/>Site  Lucioles<br/>Type  Exam<br/>Étudiants  2<br/>
+Reporté ultérieurement  <br/>Matière  SMZGS393 - Séminaire<br/>Salle  A1 Luc. 175 pl<br/>Site  Lucioles<br/>Type  Cours<br/>
