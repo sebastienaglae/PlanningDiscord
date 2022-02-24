@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace PlanningRead
 {
+
     public class PlanningTool
     {
         public static int WorkingTime(List<Subject> subjects)
@@ -31,6 +32,26 @@ namespace PlanningRead
             }
 
             return minuteFree;
+        }
+
+        public static String StringSimplifier(String str)
+        {
+            String strNorm = "eea";
+            String strConv = "éèa";
+            str = str.ToLower();
+            foreach (var c in str)
+            {
+                for (int i = 0; i < strNorm.Length; i++)
+                {
+                    if (c.Equals(strConv[i]))
+                        str = str.Replace(strConv[i], strNorm[i]);
+                }
+            }
+
+            while (str.Contains(" "))
+                str = str.Replace(" ", "");
+
+            return str;
         }
     }
 }

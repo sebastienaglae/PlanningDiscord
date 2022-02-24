@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Net;
+using System.Text;
 
 namespace PlanningRead
 {
@@ -21,7 +22,7 @@ namespace PlanningRead
                 Directory.CreateDirectory(cacheFolder);
 
             String icalPath = cacheFolder + "/" + "0.ical";
-            String url = File.ReadAllText("hyperplanningUrl.var") + edtIcs + "?version=" + version + "&idICal=" + idCal + "&param=" + param;
+            String url = File.ReadAllText("hyperplanningUrl.var", Encoding.UTF8) + edtIcs + "?version=" + version + "&idICal=" + idCal + "&param=" + param;
 
             using (var client = new WebClient())
             {
@@ -48,8 +49,8 @@ namespace PlanningRead
                 if (exportData)
                 {
                     String[] splitField = splitIcal[i].Split(":");
-                        if (!fields.Contains(splitField[0]))
-                            fields.Add(splitField[0]);
+                    if (!fields.Contains(splitField[0]))
+                        fields.Add(splitField[0]);
                 }
                 if (splitIcal[i].Contains(start))
                 {
@@ -124,7 +125,17 @@ namespace PlanningRead
                 if (exportData)
                 {
                     String[] splitField = splitIcal[i].Split(":");
-                    subject.SetField(splitField[0], splitField[1]);
+                    if (splitField.Length > 2)
+                    {
+                        String temp = "";
+                        for (int j = 1; j < splitField.Length; j++)
+                        {
+                            temp += splitField[j];
+                        }
+                        subject.SetField(splitField[0], temp);
+                    }
+                    else
+                        subject.SetField(splitField[0], splitField[1]);
                 }
                 if (splitIcal[i].Contains(start))
                 {

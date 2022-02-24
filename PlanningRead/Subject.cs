@@ -12,6 +12,31 @@ namespace PlanningRead
         private String summary;
         private String location;
         private String description;
+        private String altDesc;
+
+        public enum PlanningType { SUBJECT, TD, EXAM, DISTANCE, SEMINAR, UPGRADE, BREAK, UNKNOWN };
+
+        public PlanningType GetPlanningType()
+        {
+            String temp = PlanningTool.StringSimplifier(altDesc);
+            Console.WriteLine(altDesc);
+            Console.WriteLine(temp);
+            if (temp.Contains("typecours"))
+                return PlanningType.SUBJECT;
+            else if (temp.Contains("typeexam"))
+                return PlanningType.EXAM;
+            else if (temp.Contains("typetd"))
+                return PlanningType.TD;
+            else if (temp.Contains("typeadistance"))
+                return PlanningType.DISTANCE;
+            else if (temp.Contains("typeseminaire") || temp.Contains("seminaire"))
+                return PlanningType.SEMINAR;
+            else if (temp.Contains("remiseaniveau"))
+                return PlanningType.UPGRADE;
+            else if (temp.Contains("pausepedagogique"))
+                return PlanningType.BREAK;
+            return PlanningType.UNKNOWN;
+        }
 
         public void SetField(String field, String value)
         {
@@ -46,6 +71,10 @@ namespace PlanningRead
             else if (field.Contains("DESCRIPTION"))
             {
                 SetDescription(value);
+            }
+            else if (field.Contains("X-ALT-DESC;FMTTYPE=text/html"))
+            {
+                SetAltDesc(value);
             }
         }
 
@@ -89,6 +118,10 @@ namespace PlanningRead
             this.description = description;
         }
 
+        public void SetAltDesc(String altDesc)
+        {
+            this.altDesc = altDesc;
+        }
         public String GetCategories()
         {
             return this.categories;
@@ -127,6 +160,11 @@ namespace PlanningRead
         public String GetDescription()
         {
             return this.description;
+        }
+
+        public String GetAltDesc()
+        {
+            return this.altDesc;
         }
     }
 }
